@@ -25,7 +25,7 @@ public void init() {
 @Test
 public void Titlecheck() {
 	
-	String ExpectedTitle="Swag Labs";
+	String ExpectedTitle="Swag Labsssss";
 	String ActualTitle=driver.getTitle();
 Assert.assertEquals(ActualTitle, ExpectedTitle,"Code run succesfully");
 }
